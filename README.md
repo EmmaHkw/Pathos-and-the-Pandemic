@@ -1,6 +1,3 @@
-# Pathos-and-the-Pandemic
-The Spread of Misinformation Along With COVID-19
-
 # CSC110 Final Project: Pathos and the Pandemic — The Spread of Misinformation Along With COVID-19
 
 ## Bryson Lo, Helena Sabina Glowacki, Emma King Wai Ho, Chin Chin Jim
